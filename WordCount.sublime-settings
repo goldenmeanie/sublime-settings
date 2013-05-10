@@ -1,0 +1,4 @@
+{
+  "enable_live_count": true,
+  "whitelist_syntaxes": ["Plain Text", "Markdown", "Textile"]
+}

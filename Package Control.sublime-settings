@@ -1,0 +1,31 @@
+{
+	"auto_upgrade_last_run": null,
+	"installed_packages":
+	[
+		"Block Nav",
+		"CoffeeScript",
+		"CSSFormat",
+		"Emmet Css Snippets",
+		"ERB Insert and Toggle Commands",
+		"ExportHtml",
+		"Git",
+		"GitGutter",
+		"GotoTab",
+		"Haml",
+		"Handlebars",
+		"HTML5",
+		"HtmlTidy",
+		"jQuery",
+		"Markdown Preview",
+		"nginx",
+		"Package Control",
+		"Prefixr",
+		"SCSS",
+		"Simple Ember.js Navigator",
+		"StringEncode",
+		"sublime-github",
+		"SublimeXiki",
+		"TrailingSpaces",
+		"WordCount"
+	]
+}
